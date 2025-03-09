@@ -15,7 +15,7 @@
 
 - 📝 I regularly write blogs on [CSDN](https://blog.csdn.net/type=blog).
 
-- 📫 You can reach me at **wsmumumu@gmail.com, 1257663033@qq.com**.
+- 📫 You can reach me by **wsmumumu@gmail.com, 1257663033@qq.com**.
 
 
 <h3 align="left">Languages and Tools:</h3>
