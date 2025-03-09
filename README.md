@@ -7,7 +7,7 @@
 
 - 🏫 I'm a third-year Ph.D. student at [School of Artificial Intelligence, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
 
-- 👨‍🏫 I'm very fortunate to be advised by Prof.[Le Wang](https://openreview.net/profile?id=~Le_Wang8), from [School of Artificial Intelligence, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
+- 👨‍🏫 I'm very fortunate to be advised by Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang), from [School of Artificial Intelligence, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
 
 - 🔭 I’m interested in **Embodied AI**.
 
