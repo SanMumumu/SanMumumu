@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Robotic Manipulation**.
 
-- 📝 I regularly write articles on [https://blog.csdn.net/weixin_45751396?type=blog](https://blog.csdn.net/type=blog).
+- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/type=blog).
 
 - 📫 How to reach me **wsmumumu@gmail.com, 1257663033@qq.com**.
 
