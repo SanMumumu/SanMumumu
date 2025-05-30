@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sen Wang</h1>
-<h3 align="center">Nothing is impossible to a willing heart.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanmumumu&label=Profile%20views&color=0e75b6&style=flat" alt="sanmumumu" /> </p>
 
