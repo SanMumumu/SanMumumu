@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanmumumu" alt="sanmumumu" /></a> </p>
 
-- 🏫 I'm a third-year Ph.D. student at [School of Artificial Intelligence, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
+- 🏫 I'm a second-year Ph.D. student at [School of Artificial Intelligence, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
 
 - 👨‍🏫 I'm very fortunate to be advised by Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang), from [School of Artificial Intelligence, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
 
-- 🔭 I’m interested in **Embodied AI**.
+- 🔭 I’m interested in **Embodied AI** and robotic learning.
 
 - 🌱 I’m currently learning **Robotic Manipulation**.
 
@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanmumumu&show_icons=true&locale=en" alt="sanmumumu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanmumumu&" alt="sanmumumu" /></p>
