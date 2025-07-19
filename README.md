@@ -23,7 +23,6 @@
 
 <h2 align="center"> 🔥News</h2>
 
-- **[2025.03]** Our paper **[FlowRAM](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf)** and **[PDFactor](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf)** has been accepted by [CVPR 2025](https://cvpr.thecvf.com/)! 🎉🎉🎉<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **PDFactor** was selected for an oral presentation! 🌟🌟🌟
+- **[2025.03]** Our paper **[FlowRAM](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf)** and **[PDFactor](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf)** has been accepted by [CVPR 2025](https://cvpr.thecvf.com/)! 🎉🎉🎉 **PDFactor** was selected for an oral presentation! 🌟🌟🌟
 
 - **[2024.06]** We won the Runner-up🥈 in the **[CVPR 2024 Embodied AI Workshop](https://embodied-ai.org/cvpr2024/)** **[ARNOLD TRACK](https://sites.google.com/view/arnoldchallenge/)**. 🎉🎉🎉
