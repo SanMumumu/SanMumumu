@@ -5,15 +5,15 @@
 
 - 🏫 I'm a third-year Ph.D. student at [School of Artificial Intelligence, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
 
-- 👨‍🏫 I'm very fortunate to be advised by Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang), from [School of Artificial Intelligence, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
+- 👨‍🏫 I'm very fortunate to be advised by Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also work closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/index.html) and Prof.[Gang Hua](https://www.ganghua.org/).
 
-- 🔭 I’m interested in **Embodied AI** and **Robotic Learning**.
+- 🔭 I’m interested in **Embodied AI** and **World Model**.
 
 - 🌱 I’m currently learning **Robotic Manipulation**.
 
 - 📝 I regularly write blogs on [CSDN](https://blog.csdn.net/weixin_45751396?spm=1000.2115.3001.5343).
 
-- 📫 You can reach me by **wsmumumu@gmail.com, 1257663033@qq.com**.
+- 📫 You can reach me by **wsmumumu@gmail.com**.
 
 
 
