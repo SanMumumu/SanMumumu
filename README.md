@@ -20,9 +20,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanmumumu&show_icons=true&locale=en" alt="sanmumumu" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanmumumu" alt="sanmumumu" />
-  </a>
-</p>
