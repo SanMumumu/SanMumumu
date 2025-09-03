@@ -10,15 +10,11 @@
 
 - 🏫 I'm a third-year Ph.D. student at [Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
 
-- 🔭 I’m interested in **Embodied AI** and **World Model**.
-
-- 🌱 I’m currently learning **Robotic Manipulation**.
+- 🔭 I’m interested in **Embodied AI**, **Robotic Manipulation** and **World Model**.
 
 - 📝 I regularly write blogs on [CSDN](https://blog.csdn.net/weixin_45751396?spm=1000.2115.3001.5343).
 
 - 📫 You can reach me by **wsmumumu@gmail.com**.
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanmumumu&show_icons=true&locale=en" alt="sanmumumu" />
