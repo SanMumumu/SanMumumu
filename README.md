@@ -12,10 +12,6 @@
 
 - 🔭 I’m interested in **Embodied AI**, **Robotic Manipulation** and **World Model**.
 
-- 📝 I regularly write blogs on **[CSDN](https://blog.csdn.net/weixin_45751396?spm=1000.2115.3001.5343)**.
-
-- 📫 You can reach me by **wsmumumu@gmail.com**.
-
 <p align="center">
   <img src="https://github-readme-stats-five-swart.vercel.app/api?username=sanmumumu&show_icons=true&locale=en" alt="sanmumumu" />
 </p>
