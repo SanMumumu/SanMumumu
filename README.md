@@ -8,7 +8,7 @@
   </a>
 </div>
 
-- 🏫 I'm a fourth-year direct-entry Ph.D. student at [Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
+- 🏫 I'm a fourth-year direct-track Ph.D. student at the [Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University](https://iair.xjtu.edu.cn/index.htm).
 
 - 🔭 I’m interested in **Embodied AI**, **Robotic Manipulation** and **World Model**.
 
